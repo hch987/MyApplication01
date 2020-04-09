@@ -18,7 +18,6 @@ import android.app.WallpaperManager;
         import java.util.regex.Pattern;
 
 public class Main2Activity extends AppCompatActivity implements View.OnFocusChangeListener{
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
 
